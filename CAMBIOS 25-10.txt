@@ -39,3 +39,4 @@ cambios: -Cambio apellido  a Sambinelli
 -Noticia Agudo Bejas.
 -Profesional Rodruiguez agregado.
 -Foto actualizada de Alejandra Pereyra.
+-Hector Garcia Delevaux agregado.
