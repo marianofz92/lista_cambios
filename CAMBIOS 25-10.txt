@@ -40,3 +40,4 @@ cambios: -Cambio apellido  a Sambinelli
 -Profesional Rodruiguez agregado.
 -Foto actualizada de Alejandra Pereyra.
 -Hector Garcia Delevaux agregado.
+-RONDIA CORREGIDO.
