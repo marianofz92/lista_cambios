@@ -42,3 +42,4 @@ cambios: -Cambio apellido  a Sambinelli
 -Hector Garcia Delevaux agregado.
 -RONDIA CORREGIDO.
 -BUSCADOR CORREGIDO.
+-FOTO AGREGADA A GARROCHO.
