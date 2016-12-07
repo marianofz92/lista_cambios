@@ -1,4 +1,4 @@
-[13:51, 26/10/2016] Juancito Gym: Dra. Solana Piliponsky
+﻿[13:51, 26/10/2016] Juancito Gym: Dra. Solana Piliponsky
 Agregar a lo ya existente:
 * médica certificada en Método No dieta (dictado por la Dra Monica Katz)
 * Diplomatura en obesidad (Fundación Favaloro)                      
@@ -56,7 +56,8 @@ cambios: -Cambio apellido  a Sambinelli
 
 25-11
 -NOTA DIA DEL MEDICO AGREGADA.
--FOTO GEORGE AGREGADA
--FOTO CARLOS RODRIGUEZ AGREGADA
+-FOTO GEORGE AGREGADA.
+-FOTO CARLOS RODRIGUEZ AGREGADA.
+-VILLAVICENCIO AGREGADO.
 
 
